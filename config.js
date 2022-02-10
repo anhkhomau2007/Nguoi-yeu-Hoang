@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Gửi Người yêu ank :33",
+    titleWeb: "Đôi lời Hoàng muốn nói <3 ",
     introTitle: 'Kim tình (@nadathuong.284)',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
